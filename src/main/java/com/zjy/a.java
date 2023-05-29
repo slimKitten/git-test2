@@ -8,5 +8,6 @@ public class a {
         System.out.println("github add");
         System.out.println("idea add");
         System.out.println("hot fix");
+        System.out.println("github add 2");
     }
 }
