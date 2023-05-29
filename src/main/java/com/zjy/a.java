@@ -6,5 +6,6 @@ public class a {
         System.out.println("111");
         System.out.println("222");
         System.out.println("github add");
+        System.out.println("idea add");
     }
 }
